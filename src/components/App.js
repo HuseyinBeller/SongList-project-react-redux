@@ -2,6 +2,7 @@ import React from "react";
 import SongList from "./SongList";
 import SongDetail from "./SongDetail";
 
+//  songList  // songDetail  should be styling a bit more.
 const App = () => {
   return (
     <div className="ui container grid">
